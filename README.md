@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24,31&height=230&section=header&text=Hi%20there,%20I'm%20Rajveer%20Mohite%20👋&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Engineer%20•%20Open-Source%20Contributor%20•%20Applied%20AI%20Builder&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24,31&height=230&section=header&text=Hi%20there,%20I'm%20Rajveer%20Mohite%20👋&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Engineer%20•%20Open-Source%20Contributor%20•%20System%20Architect&descAlignY=58&descAlign=50" width="100%"/>
 
   <p align="center">
-    <a href="https://github.com/rvcreationworld"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=680&lines=Building+Production+Web+%26+Mobile+Architectures;Active+Open-Source+Contributor+%26+GSoC+Developer;Exploring+Distributed+Systems+%26+Applied+AI;Designing+Resilient+Telephony+%26+CRM+Ecosystems" alt="Typing SVG" /></a>
+    <a href="https://github.com/rvcreationworld"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=680&lines=Building+Production+Web+%26+Mobile+Architectures;Active+Open-Source+Contributor+%26+GSoC+Developer;Designing+Enterprise+CRM+%26+Telephony+Platforms;Engineering+Automated+Trading+%26+Verification+Engines" alt="Typing SVG" /></a>
   </p>
 
   <p align="center">
@@ -24,14 +24,14 @@
 name: Rajveer Mohite
 role: Full-Stack Engineer & Systems Builder
 education: B.Tech in Computer Engineering
-specialization:
-  - Scalable Web & Distributed Microservices
-  - Production Mobile Telephony & Call Analytics
-  - Transformer Architectures & Algorithmic Problem Solving
+core_specializations:
+  - Enterprise CRM & Telephony Call-Sync Systems (RM-Pro / Telepro)
+  - Real-Time Live Session & Attendance Web Portals
+  - Headless Browser Automation & Financial Platform Integrations (Angel One)
 open_source_focus:
   - Python Web & Core APIs (Zulip, Reader)
-  - Static Typing, Data Validation & CI/CD Hardening
-current_mission: Preparing for High-Impact Open-Source (GSoC) & Industrial Systems
+  - Static Typing, Data Validation & Production Hardening
+current_mission: Preparing for High-Impact Open-Source (GSoC) & Industrial Software Engineering
 ```
 
 ---
@@ -71,27 +71,27 @@ current_mission: Preparing for High-Impact Open-Source (GSoC) & Industrial Syste
 
 ---
 
-### 🧠 Featured Engineering Projects
+### 🌟 Featured Engineering Projects
 
 <table>
   <tr>
     <td width="33%">
-      <h4 align="center">🤖 Mini-Transformer LLM</h4>
-      <p align="center"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
-      <p>Built a decoder-only GPT mini-transformer from scratch with multi-head self-attention, rotary positional embeddings, and custom text generation pipelines.</p>
-      <p align="center"><a href="https://github.com/rvcreationworld/mini-transformer-llm"><b>View Code →</b></a></p>
+      <h4 align="center">🏢 RM-Pro CRM Platform</h4>
+      <p align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
+      <p>Comprehensive Relationship Manager (RM) CRM suite with automated mobile call-log synchronization (CallBit), client portfolio assignments, lead distribution, and team supervisor metrics.</p>
+      <p align="center"><code>Telephony Sync</code> • <code>Role-Based Access</code> • <code>Analytics</code></p>
     </td>
     <td width="33%">
-      <h4 align="center">📞 Telepro & Dialer Ecosystem</h4>
-      <p align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /></p>
-      <p>Real-time telecalling operations suite pairing Android telephony agents with supervisor management dashboards and lead allocation queues.</p>
-      <p align="center"><a href="https://github.com/rvcreationworld/dialer-app"><b>View Code →</b></a></p>
+      <h4 align="center">🎓 Live Session Management Portal</h4>
+      <p align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white" /></p>
+      <p>Real-time live session and webinar administration portal. Manages student access controls, dynamic session scheduling, attendance audits, feedback capture, and participant engagement pipelines.</p>
+      <p align="center"><code>Live Scheduling</code> • <code>Attendance Logs</code> • <code>User Portal</code></p>
     </td>
     <td width="33%">
-      <h4 align="center">📊 Class Attendance Platform</h4>
-      <p align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></p>
-      <p>Containerized educational portal managing student KYC, lecture tracking, automated reporting, and role-based access for institutions.</p>
-      <p align="center"><a href="https://github.com/rvcreationworld/classattendance"><b>View Code →</b></a></p>
+      <h4 align="center">🛡️ Angel One Verification & Automation</h4>
+      <p align="center"><img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" /> <img src="https://img.shields.io/badge/SmartAPI-FF6F00?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
+      <p>Automated verification and session management system connecting directly to Angel One's platform in isolated private browser environments. Features automated TOTP authentication, credential validation, and live session health checking.</p>
+      <p align="center"><code>Headless Browser</code> • <code>TOTP Auth</code> • <code>SmartAPI</code></p>
     </td>
   </tr>
 </table>
@@ -107,8 +107,8 @@ current_mission: Preparing for High-Impact Open-Source (GSoC) & Industrial Syste
 | **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,dart,html,css" /> |
 | **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,bootstrap,vite" /> |
 | **Backend & Microservices** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" /> |
-| **Data & Storage** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" /> |
-| **DevOps & Architecture** | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,postman" /> |
+| **Databases & ORMs** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" /> |
+| **DevOps & Automation** | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,postman" /> |
 
 </div>
 
