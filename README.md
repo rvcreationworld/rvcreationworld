@@ -47,10 +47,10 @@
   <table border="0">
     <tr>
       <td>
-        <img height="185" src="https://github-readme-stats.vercel.app/api?username=rvcreationworld&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+        <img height="185" src="https://github-readme-stats-fast.vercel.app/api?username=rvcreationworld&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
       </td>
       <td>
-        <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvcreationworld&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+        <img height="185" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rvcreationworld&layout=compact&theme=radical&hide_border=true&langs_count=8" />
       </td>
     </tr>
   </table>
